@@ -1,6 +1,6 @@
 ## 💫 About Me:
 🔭 Seeking opportunities as a Frontend Developer  
-💡 Committed to continuous learning, personal projects, and exploring modern tools
+💡 Committed to continuous learning, personal projects, and exploring modern tools  
 🧩 Problem-solving mindset & team spirit
 
 ## 💻 Tech Stack:
